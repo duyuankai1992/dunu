@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dunu:war">
+    <output-path>$PROJECT_DIR$/../dunu/target</output-path>
+    <root id="archive" name="dunu.war">
+      <element id="artifact" artifact-name="dunu:war exploded" />
+    </root>
+  </artifact>
+</component>
